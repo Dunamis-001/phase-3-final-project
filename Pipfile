@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 
+sqlalchemy = "2.0.43"
+alembic = "1.14.1"
+
 [dev-packages]
+
 
 [requires]
 python_version = "3.8"
-sqlalchemy = "2.0.43"
-alembic = "1.14.1"
